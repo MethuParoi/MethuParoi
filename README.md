@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **paroimethu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pJyQaJxhHQkJq-wwN5y-hLiBPajwPzf6/view?usp=sharing](https://drive.google.com/file/d/1pJyQaJxhHQkJq-wwN5y-hLiBPajwPzf6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pJyQaJxhHQkJq-wwN5y-hLiBPajwPzf6/view?usp=sharing]((https://drive.google.com/file/d/1X7ZhM07Poyhl4ijBV6D4ljyWSERbBozM/view?usp=sharing))
 
 <div align="center">
 
