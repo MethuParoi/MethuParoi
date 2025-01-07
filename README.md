@@ -6,19 +6,21 @@
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Methu Paroi</h1>
+<h1 align="center">Hi 👋, I'm Methu Paroi (web-app developer)</h1>
 <h3 align="left">Final year Computer Science and Engineering student with passion for Full Stack Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
 <br/>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://GitHub.com/MethuParoi](https://github.com/MethuParoi?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/MethuParoi?tab=repositories)
 
-- 💬 Ask me about **React, Node.js, Express.js, JavaScript, Java, Tailwind**
+- 💬 Ask me about **React, Next.js, Express.js, JavaScript, Redux, Tailwind**
 
 - 📫 How to reach me **paroimethu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X7ZhM07Poyhl4ijBV6D4ljyWSERbBozM/view?usp=sharing](https://drive.google.com/file/d/1X7ZhM07Poyhl4ijBV6D4ljyWSERbBozM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rXQSaa_1pRTRS41Zy4fRgd38FI4IknCa/view?usp=sharing)
+
+- 📍 **Dhaka, Bangladesh**
 
 <div align="center">
 
@@ -26,7 +28,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methu-p-6aa311204/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/methu_paroi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paroimethu@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methu-paroi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/methu_paroi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paroimethu@gmail.com) 
 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShafayetAhmad1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ShafayetAhmadK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ShafayetAhmadK) -->
 
