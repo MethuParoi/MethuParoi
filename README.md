@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 Visit my portfolio [Portfolio](https://methuparoi.vercel.app)
+- 👨‍💻 Visit my portfolio [Portfolio]("https://methuparoi.vercel.app", "_blank")
 
 - 💬 Ask me about **React, Next.js, Express.js, JavaScript, Redux, Tailwind**
 
