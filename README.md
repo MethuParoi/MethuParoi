@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/MethuParoi?tab=repositories)
+- 👨‍💻 Visit my portfolio [Portfolio](https://methuparoi.vercel.app)
 
 - 💬 Ask me about **React, Next.js, Express.js, JavaScript, Redux, Tailwind**
 
