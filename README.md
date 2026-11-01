@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Methu Paroi (Frontend Developer)</h1>
+<h1 align="center">Hi 👋, I'm Methu Paroi (Fullstack Developer)</h1>
 <h3 align="left">Final year Computer Science and Engineering student with passion for Full Stack Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
 <br/>
 
