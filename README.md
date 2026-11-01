@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](./assets/Banner.png)
-
 </div>
 
 # 💫 About Me:
